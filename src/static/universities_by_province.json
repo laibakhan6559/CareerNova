@@ -1,0 +1,846 @@
+{
+  "Federal Capital Territory": [
+    {
+      "Islamabad": [
+        "Riphah International University",
+        "Capital University of Science & Technology",
+        "Quaid-i-Azam University",
+        "Pakistan Institute of Engineering and Applied Sciences",
+        "National Defence University, Pakistan",
+        "Allama Iqbal Open University",
+        "International Islamic University, Islamabad",
+        "National University of Sciences and Technology, Pakistan",
+        "COMSATS University",
+        "National University of Computer and Emerging Sciences",
+        "Bahria University",
+        "Sir Syed CASE Institute of Technology",
+        "Federal Urdu University of Arts, Science and Technology",
+        "Institute of Space Technology",
+        "Foundation University, Islamabad",
+        "National University of Modern Languages",
+        "Air University, Islamabad",
+        "Shifa Tameer-e-Millat University",
+        "Shaheed Zulfiqar Ali Bhutto Medical University",
+        "Muslim Youth University",
+        "National University of Technology",
+        "Pakistan Institute of Development Economics",
+        "National Skills University",
+        "Ibadat International University"
+      ]
+    }
+  ],
+  "Balochistan": [
+    {
+      "Dera Murad Jamali": [
+        "Lasbela University of Agriculture, Water and Marine Sciences"
+      ]
+    },
+    {
+      "Gwadar": [
+        "University of Turbat",
+        "University of Gwadar"
+      ]
+    },
+    {
+      "Kharan": [
+        "University of Balochistan"
+      ]
+    },
+    {
+      "Khuzdar": [
+        "Balochistan University of Engineering and Technology",
+        "Sardar Bahadur Khan Women's University"
+      ]
+    },
+    {
+      "Lasbela": [
+        "Lasbela University of Agriculture, Water and Marine Sciences"
+      ]
+    },
+    {
+      "Loralai": [
+        "University of Loralai"
+      ]
+    },
+    {
+      "Mastung": [
+        "University of Balochistan"
+      ]
+    },
+    {
+      "Noshki": [
+        "Sardar Bahadur Khan Women's University"
+      ]
+    },
+    {
+      "Pishin": [
+        "University of Balochistan",
+        "Sardar Bahadur Khan Women's University"
+      ]
+    },
+    {
+      "Quetta": [
+        "University of Balochistan",
+        "Al-Hamd Islamic University",
+        "Balochistan University of Information Technology, Engineering and Management Sciences",
+        "Sardar Bahadur Khan Women's University"
+      ]
+    },
+    {
+      "Sibi": [
+        "Mir Chakar Khan Rind University"
+      ]
+    },
+    {
+      "Turbat": [
+        "University of Turbat"
+      ]
+    },
+    {
+      "Wadh": [
+        "Lasbela University of Agriculture, Water and Marine Sciences"
+      ]
+    },
+    {
+      "Zhob": [
+        "Balochistan University of Information Technology, Engineering and Management Sciences"
+      ]
+    }
+  ],
+  "Khyber Pakhtunkhwa": [
+    {
+      "Abbotabad": [
+        "Pakistan Military Academy"
+      ]
+    },
+    {
+      "Abbottabad": [
+        "University of Engineering and Technology, Peshawar",
+        "Khyber Medical University",
+        "Abbottabad University of Science and Technology"
+      ]
+    },
+    {
+      "Akhorwal": [
+        "FATA University"
+      ]
+    },
+    {
+      "Bannu": [
+        "University of Engineering and Technology, Peshawar",
+        "University of Science and Technology Bannu",
+        "Khyber Medical University"
+      ]
+    },
+    {
+      "Battagram": [
+        "Hazara University"
+      ]
+    },
+    {
+      "Buner": [
+        "University of Buner"
+      ]
+    },
+    {
+      "Chakdara": [
+        "University of Malakand"
+      ]
+    },
+    {
+      "Charsadda": [
+        "Bacha Khan University"
+      ]
+    },
+    {
+      "Chitral": [
+        "Abdul Wali Khan University Mardan",
+        "Shaheed Benazir Bhutto University, Sheringal",
+        "University of Chitral"
+      ]
+    },
+    {
+      "Dera Ismail Khan": [
+        "Gomal University",
+        "Qurtuba University",
+        "Khyber Medical University",
+        "University of Agriculture, Dera Ismail Khan"
+      ]
+    },
+    {
+      "Hangu": [
+        "Kohat University of Science and Technology"
+      ]
+    },
+    {
+      "Haripur": [
+        "University of Haripur",
+        "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology"
+      ]
+    },
+    {
+      "Jalozai": [
+        "University of Engineering and Technology, Peshawar"
+      ]
+    },
+    {
+      "Karak": [
+        "Khushal Khan Khattak University"
+      ]
+    },
+    {
+      "Kohat": [
+        "University of Engineering and Technology, Peshawar",
+        "Preston University",
+        "Kohat University of Science and Technology"
+      ]
+    },
+    {
+      "Lakki Marwat": [
+        "University of Lakki Marwat"
+      ]
+    },
+    {
+      "Mansehra": [
+        "Hazara University"
+      ]
+    },
+    {
+      "Mardan": [
+        "University of Agriculture, Peshawar",
+        "Abdul Wali Khan University Mardan",
+        "Women University Mardan",
+        "University of Engineering and Technology, Mardan"
+      ]
+    },
+    {
+      "Nowshera": [
+        "Northern University, Nowshera",
+        "University of Technology, Nowshera"
+      ]
+    },
+    {
+      "Pabbi": [
+        "Abdul Wali Khan University Mardan"
+      ]
+    },
+    {
+      "Peshawar": [
+        "Islamia College University",
+        "University of Peshawar",
+        "University of Engineering and Technology, Peshawar",
+        "University of Agriculture, Peshawar",
+        "Preston University",
+        "CECOS University of Information Technology and Emerging Sciences",
+        "Qurtuba University",
+        "Sarhad University of Science and Information Technology",
+        "City University of Science and Information Technology, Peshawar",
+        "Gandhara University",
+        "Institute of Management Sciences Peshawar",
+        "Shaheed Benazir Bhutto Women University",
+        "Khyber Medical University",
+        "Abasyn University",
+        "IQRA National University"
+      ]
+    },
+    {
+      "Risalpur": [
+        "Pakistan Air Force Academy"
+      ]
+    },
+    {
+      "Saidu Sharif": [
+        "Khyber Medical University"
+      ]
+    },
+    {
+      "Swabi": [
+        "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+        "University of Swabi",
+        "Women University Swabi"
+      ]
+    },
+    {
+      "Swat": [
+        "University of Swat",
+        "IQRA National University"
+      ]
+    },
+    {
+      "Tank": [
+        "Gomal University"
+      ]
+    },
+    {
+      "Timergara": [
+        "University of Dir"
+      ]
+    },
+    {
+      "Upper Dir": [
+        "Shaheed Benazir Bhutto University, Sheringal"
+      ]
+    }
+  ],
+  "Punjab": [
+    {
+      "Across The Entirepakistan": [
+        "Virtual University of Pakistan"
+      ]
+    },
+    {
+      "Attock": [
+        "University of Education"
+      ]
+    },
+    {
+      "Bahawalnagar": [
+        "The Islamia University of Bahawalpur"
+      ]
+    },
+    {
+      "Bahawalpur": [
+        "The Islamia University of Bahawalpur",
+        "National College of Business Administration and Economics",
+        "Government Sadiq College Women University",
+        "Cholistan University of Veterinary and Animal Sciences"
+      ]
+    },
+    {
+      "Bhakkar": [
+        "University of Sargodha",
+        "Thal University"
+      ]
+    },
+    {
+      "Burewala": [
+        "University of Agriculture, Faisalabad"
+      ]
+    },
+    {
+      "Chakwal": [
+        "University of Chakwal"
+      ]
+    },
+    {
+      "Chiniot": [
+        "Government College University, Faisalabad"
+      ]
+    },
+    {
+      "Depalpur": [
+        "University of Agriculture, Faisalabad"
+      ]
+    },
+    {
+      "Dera Ghazi Khan": [
+        "University of Education",
+        "Ghazi University",
+        "Mir Chakar Khan Rind University of Technology"
+      ]
+    },
+    {
+      "Faisalabad": [
+        "University of Engineering and Technology, Lahore",
+        "University of Agriculture, Faisalabad",
+        "Government College University, Faisalabad",
+        "National Textile University",
+        "University of Education",
+        "Faisalabad Medical University",
+        "University of Faisalabad",
+        "Government College Women University, Faisalabad"
+      ]
+    },
+    {
+      "Gujranwala": [
+        "University of Engineering and Technology, Lahore",
+        "University of the Punjab",
+        "GIFT University"
+      ]
+    },
+    {
+      "Gujrat": [
+        "University of Lahore",
+        "University of Gujrat"
+      ]
+    },
+    {
+      "Jauharabad": [
+        "University of Education"
+      ]
+    },
+    {
+      "Jhang": [
+        "University of Veterinary and Animal Sciences",
+        "Lahore College for Women University",
+        "University of Jhang"
+      ]
+    },
+    {
+      "Jhelum": [
+        "University of the Punjab"
+      ]
+    },
+    {
+      "Karachi": [
+        "National Textile University"
+      ]
+    },
+    {
+      "Khanspur": [
+        "University of the Punjab"
+      ]
+    },
+    {
+      "Lahore": [
+        "King Edward Medical University",
+        "University of Engineering and Technology, Lahore",
+        "Forman Christian College",
+        "National College of Arts",
+        "University of Veterinary and Animal Sciences",
+        "University of the Punjab",
+        "Punjab Tianjin University of Technology",
+        "Kinnaird College for Women University",
+        "Government College University, Lahore",
+        "Lahore College for Women University",
+        "Fatima Jinnah Medical University",
+        "Lahore University of Management Sciences",
+        "Institute of Management Sciences, Lahore",
+        "University of Management and Technology, Lahore",
+        "National College of Business Administration and Economics",
+        "University of Central Punjab",
+        "University of Health Sciences, Lahore",
+        "University of Education",
+        "Hajvery University",
+        "University of Lahore",
+        "Beaconhouse National University",
+        "University of South Asia",
+        "University of Gujrat",
+        "Superior University",
+        "Minhaj University, Lahore",
+        "Pakistan Institute of Fashion and Design",
+        "Qarshi University",
+        "Information Technology University (Lahore)",
+        "Virtual University of Pakistan",
+        "Lahore Garrison University",
+        "NUR International University",
+        "Lahore School of Economics",
+        "University of Home Economics Lahore",
+        "Institute for Art and Culture",
+        "Green International University",
+        "Lahore Institute of Science and Technology"
+      ]
+    },
+    {
+      "Layyah": [
+        "University of Veterinary and Animal Sciences",
+        "Government College University, Faisalabad",
+        "Bahauddin Zakariya University"
+      ]
+    },
+    {
+      "Mandi Bahauddin": [
+        "University of Gujrat",
+        "University of Engineering and Technology, Rasul"
+      ]
+    },
+    {
+      "Mianwali": [
+        "Namal Institute",
+        "University of Mianwali"
+      ]
+    },
+    {
+      "Multan": [
+        "Bahauddin Zakariya University",
+        "NFC Institute of Engineering and Technology",
+        "National College of Business Administration and Economics",
+        "University of Education",
+        "Women University Multan",
+        "Institute of Southern Punjab",
+        "Muhammad Nawaz Sharif University of Agriculture",
+        "Muhammad Nawaz Sharif University of Engineering and Technology",
+        "Nishtar Medical University"
+      ]
+    },
+    {
+      "Murree": [
+        "Kohsar University Murree"
+      ]
+    },
+    {
+      "Nankana Sahib": [
+        "Baba Guru Nanak University"
+      ]
+    },
+    {
+      "Narowal": [
+        "University of Engineering and Technology, Lahore",
+        "University of Veterinary and Animal Sciences",
+        "University of Gujrat",
+        "University of Narowal"
+      ]
+    },
+    {
+      "Okara": [
+        "University of Okara"
+      ]
+    },
+    {
+      "Pakpattan": [
+        "University of Lahore"
+      ]
+    },
+    {
+      "Pattoki": [
+        "University of Veterinary and Animal Sciences"
+      ]
+    },
+    {
+      "Rahim Yar Khan": [
+        "The Islamia University of Bahawalpur",
+        "National College of Business Administration and Economics",
+        "Khawaja Fareed University of Engineering and Information Technology"
+      ]
+    },
+    {
+      "Rawalpindi": [
+        "National College of Arts",
+        "Pir Mehr Ali Shah Arid Agriculture University",
+        "Fatima Jinnah Women University",
+        "University of Gujrat",
+        "Rawalpindi Medical University",
+        "National University of Medical Sciences",
+        "Rawalpindi Women University",
+        "Government Viqar-un-Nisa Women University"
+      ]
+    },
+    {
+      "Sahiwal": [
+        "Government College University, Faisalabad",
+        "University of Sahiwal"
+      ]
+    },
+    {
+      "Sargodha": [
+        "University of Sargodha",
+        "University of Lahore"
+      ]
+    },
+    {
+      "Sheikhupura": [
+        "University of Engineering and Technology, Lahore",
+        "Hajvery University"
+      ]
+    },
+    {
+      "Sialkot": [
+        "University of Management and Technology, Lahore",
+        "Government College Women University, Sialkot",
+        "University of Sialkot",
+        "Grand Asian University Sialkot"
+      ]
+    },
+    {
+      "Sohawa": [
+        "Al-Qadir University"
+      ]
+    },
+    {
+      "Taxila": [
+        "University of Engineering and Technology, Taxila",
+        "HITEC University"
+      ]
+    },
+    {
+     "Kamilia": [
+      "University of Kamilia"
+    ]
+  },
+    {
+      "Vehari": [
+        "Bahauddin Zakariya University",
+        "University of Education"
+      ]
+    },
+    {
+      "Wah": [
+        "University of Wah"
+      ]
+    }
+  ],
+  "Sindh": [
+    {
+      "Badin": [
+        "University of Sindh"
+      ]
+    },
+    {
+      "Benazirabad": [
+        "Quaid-e-Awam University of Engineering, Science and Technology",
+        "Shaheed Benazir Bhutto University, Benazirabad",
+        "Peoples University of Medical and Health Sciences for Women",
+        "Shaheed Benazir Bhutto University of Veterinary and Animal Sciences"
+      ]
+    },
+    {
+      "Bhit Shah": [
+        "University of Sindh",
+        "University of Sufism and Modern Sciences"
+      ]
+    },
+    {
+      "Dadu": [
+        "University of Sindh"
+      ]
+    },
+    {
+      "Dokri": [
+        "Sindh Agriculture University"
+      ]
+    },
+    {
+      "Ghotki": [
+        "Shah Abdul Latif University"
+      ]
+    },
+    {
+      "Hyderabad": [
+        "University of Sindh",
+        "Sukkur Institute of Business Administration (IBA) University",
+        "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+        "Isra University",
+        "University of EAST",
+        "Hyderabad Institute of Arts, Science and Technology",
+        "Government College University Hyderabad"
+      ]
+    },
+    {
+      "Jacobabad": [
+        "Mehran University of Engineering and Technology"
+      ]
+    },
+    {
+      "Jamshoro": [
+        "Liaquat University of Medical and Health Sciences",
+        "University of Sindh",
+        "Mehran University of Engineering and Technology"
+      ]
+    },
+    {
+      "Karachi": [
+        "Sindh Madressatul Islam University",
+        "NED University of Engineering and Technology",
+        "Dow University of Health Sciences",
+        "University of Karachi",
+        "Institute of Business Administration, Karachi",
+        "Dawood University of Engineering and Technology",
+        "Pakistan Naval Academy",
+        "Indus Valley School of Art and Architecture",
+        "Baqai Medical University",
+        "Hamdard University",
+        "Commecs institute of business and emerging sciences",
+        "Sir Syed University of Engineering and Technology",
+        "Textile Institute of Pakistan",
+        "Institute of Business Management",
+        "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+        "Isra University",
+        "Karachi Institute of Economics and Technology",
+        "Greenwich University, Karachi",
+        "Jinnah University for Women",
+        "Iqra University",
+        "Dadabhoy Institute of Higher Education",
+        "Ilma University",
+        "Preston Institute of Management Sciences and Technology",
+        "Indus University",
+        "Aga Khan University",
+        "Muhammad Ali Jinnah University",
+        "Sindh Institute of Medical Sciences",
+        "Karachi School for Business and Leadership",
+        "Aga Khan University",
+        "Habib University",
+        "Benazir Bhutto Shaheed University",
+        "KASB Institute of Technology",
+        "Jinnah Sindh Medical University",
+        "Shaheed Zulfiqar Ali Bhutto University of Law",
+        "DHA Suffa University",
+        "Nazeer Hussain University",
+        "Newports Institute of Communications and Economics",
+        "Shaheed Benazir Bhutto City University",
+        "Shaheed Benazir Bhutto Dewan University",
+        "Qalandar Shahbaz University of Modern Sciences",
+        "Ziauddin University",
+        "Salim Habib University"
+      ]
+    },
+    {
+      "Khairpur": [
+        "Mehran University of Engineering and Technology",
+        "Shah Abdul Latif University",
+        "Sindh Agriculture University",
+        "Pir Abdul Qadir Shah Jeelani Institute of Medical Sciences",
+        "Benazir Bhutto Shaheed University of Technology and Skill Development"
+      ]
+    },
+    {
+      "Larkana": [
+        "University of Sindh",
+        "Quaid-e-Awam University of Engineering, Science and Technology",
+        "Sukkur Institute of Business Administration (IBA) University",
+        "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+        "Shaheed Mohtarma Benazir Bhutto Medical University"
+      ]
+    },
+    
+    {
+      "Mauritius": [
+        "Greenwich University, Karachi"
+      ]
+    },
+    {
+      "Mirpur Khas": [
+        "University of Sindh",
+        "Sukkur Institute of Business Administration (IBA) University"
+      ]
+    },
+    {
+      "Naushahro Feroze": [
+        "University of Sindh",
+        "Shaheed Benazir Bhutto University, Benazirabad"
+      ]
+    },
+    {
+      "Sanghar": [
+        "Shaheed Benazir Bhutto University, Benazirabad"
+      ]
+    },
+    {
+      "Shahdadkot": [
+        "Shah Abdul Latif University"
+      ]
+    },
+    {
+      "Shikarpur": [
+        "Shah Abdul Latif University",
+        "Shaikh Ayaz University"
+      ]
+    },
+    {
+      "Sujawal": [
+        "Mehran University of Engineering and Technology"
+      ]
+    },
+    {
+      "Sukkur": [
+        "Sukkur Institute of Business Administration (IBA) University",
+        "Begum Nusrat Bhutto Women University"
+      ]
+    },
+    {
+      "Tandojam": [
+        "Sindh Agriculture University"
+      ]
+    },
+    {
+      "Tharparkar": [
+        "NED University of Engineering and Technology"
+      ]
+    },
+    {
+      "Thatta": [
+        "University of Sindh"
+      ]
+    },
+    {
+      "Umerkot": [
+        "Sindh Agriculture University"
+      ]
+    }
+  ],
+  "Azad Jammu and Kashmir": [
+    {
+      "Bagh": [
+        "Women University of Azad Jammu and Kashmir Bagh"
+      ]
+    },
+    {
+      "Bhimber": [
+        "Mirpur University of Science and Technology"
+      ]
+    },
+    {
+      "Haveli": [
+        "University of Poonch"
+      ]
+    },
+    {
+      "Jhelum Valley": [
+        "University of Azad Jammu and Kashmir"
+      ]
+    },
+    {
+      "Kotli": [
+        "University of Kotli"
+      ]
+    },
+    {
+      "Mirpur": [
+        "Mirpur University of Science and Technology",
+        "Al-Khair University"
+      ]
+    },
+    {
+      "Muzaffarabad": [
+        "University of Azad Jammu and Kashmir"
+      ]
+    },
+    {
+      "Neelam": [
+        "University of Azad Jammu and Kashmir"
+      ]
+    },
+    {
+      "Nerian Sharif": [
+        "Mohi-ud-Din Islamic University"
+      ]
+    },
+    {
+      "Rawalakot": [
+        "University of Poonch"
+      ]
+    },
+    {
+      "Sudhanoti": [
+        "University of Poonch"
+      ]
+    }
+  ],
+  "Gilgit-Baltistan": [
+    {
+      "Chilas": [
+        "Karakoram International University"
+      ]
+    },
+    {
+      "Ghizar": [
+        "Karakoram International University"
+      ]
+    },
+    {
+      "Gilgit": [
+        "Karakoram International University"
+      ]
+    },
+    {
+      "Hunza Valley": [
+        "Karakoram International University"
+      ]
+    },
+    {
+      "Skardu": [
+        "Baltistan University"
+      ]
+    }
+  ]
+}
+

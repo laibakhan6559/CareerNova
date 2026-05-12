@@ -97,7 +97,7 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="footer-bottom">
-        <p>© {currentYear} CareerNovaaaaa. All Rights Reserved.</p>
+        <p>© {currentYear} CareerNova. All Rights Reserved.</p>
         <div className="footer-legal">
           <a href="#">Privacy Policy</a>
           <span className="divider">•</span>

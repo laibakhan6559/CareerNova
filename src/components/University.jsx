@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import universitiesData from "../static/universities_by_province.json";
+import worldMap from "../assets/world.png"
 
 const topCountries = [
   { name: "United States", value: 99, flag: "🇺🇸" },
@@ -498,9 +499,9 @@ export default function University() {
           
           <div className="uni-map">
             <img
-              src="src/assets/world.png"
-              alt="World Map"
-            />
+  src={worldMap}
+  alt="World Map"
+/>
           </div>
         </div>
       </div>
